@@ -7,7 +7,7 @@ package proyectocompuvisual;
 
 /**
  *
- * @author pppppppppppppppppppp
+ * @author pppppppppppppppppppp MODIF
  */
 public class Principal extends javax.swing.JFrame {
 
